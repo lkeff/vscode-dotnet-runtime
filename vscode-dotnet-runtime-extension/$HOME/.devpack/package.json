@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@devpack/qakit": "^0.0.58"
+  }
+}
