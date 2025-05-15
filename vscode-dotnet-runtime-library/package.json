@@ -43,7 +43,7 @@
 		"axios": "^1.7.4",
 		"axios-cache-interceptor": "^1.5.3",
 		"axios-retry": "^3.4.0",
-		"chai": "4.3.4",
+		"chai": "4.5.0",
 		"chai-as-promised": "^7.1.1",
 		"eol": "^0.9.1",
 		"get-proxy-settings": "^0.1.13",
