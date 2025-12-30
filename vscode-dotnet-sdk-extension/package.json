@@ -95,7 +95,7 @@
 		"@types/vscode": "1.74.0",
 		"@vscode/test-electron": "^2.3.9",
 		"axios": "^1.7.4",
-		"axios-cache-interceptor": "^1.0.1",
+		"axios-cache-interceptor": "^1.11.1",
 		"axios-retry": "^3.4.0",
 		"chai": "4.3.4",
 		"chai-as-promised": "^7.1.1",
